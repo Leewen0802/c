@@ -1,0 +1,1293 @@
+
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'autoRead'
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] load() takes 1 positional argument but 2 were given
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not iterable
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'kickoutFromGroup'
+[<module 'time' (built-in)>] 'list' object has no attribute 'kickoutFromGroup'
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] name 'klist' is not defined
+[<module 'time' (built-in)>] local variable 'kickers' referenced before assignment
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] '顯示名稱'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'list' object has no attribute 'getGroup'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'list' object has no attribute 'getGroup'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'list' object has no attribute 'getGroup'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] an integer is required (got type str)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] must be str, not Message
+[<module 'time' (built-in)>] must be str, not Message
+[<module 'time' (built-in)>] must be str, not Message
+[<module 'time' (built-in)>] must be str, not Message
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] name 'param2' is not defined
+[<module 'time' (built-in)>] 'Message' object has no attribute 'param2'
+[<module 'time' (built-in)>] must be str, not Group
+[<module 'time' (built-in)>] 'Group' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'Group' object has no attribute 'Name'
+[<module 'time' (built-in)>] 'Group' object has no attribute 'Name'
+[<module 'time' (built-in)>] 'Group' object has no attribute 'Name'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] local variable 'chiya' referenced before assignment
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'zero' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] local variable 'mi_d' referenced before assignment
+[<module 'time' (built-in)>] name 'mid' is not defined
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] local variable 'zeromid' referenced before assignment
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] local variable 'mc' referenced before assignment
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'contentMetadata' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'param1' is not defined
+[<module 'time' (built-in)>] name 'param1' is not defined
+[<module 'time' (built-in)>] name 'param1' is not defined
+[<module 'time' (built-in)>] name 'param1' is not defined
+[<module 'time' (built-in)>] name 'param1' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'whitelist'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] name 'param1' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] acceptGroupInvitationByTicket() missing 1 required positional argument: 'ticketId'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'LINE' object is not callable
+[<module 'time' (built-in)>] 'LINE' object is not callable
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'LINE' object is not callable
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'LINE' object is not callable
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'km' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] local variable '_name' referenced before assignment
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] name 'param1' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'readMeber'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'kicker5' is not defined
+[<module 'time' (built-in)>] name 'line' is not defined
+[<module 'time' (built-in)>] must be str, not NoneType
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'group'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'group'
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=8, reason='REVOKE', parameterMap=None)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'list' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'list' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'list' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'list' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] 'list' object has no attribute 'sendMessage'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendMessaget'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendMessaget'
+[<module 'time' (built-in)>] cancelGroupInvitation() missing 1 required positional argument: 'contactIds'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'param'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendMessaget'
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] cancelGroupInvitation() missing 1 required positional argument: 'contactIds'
+[<module 'time' (built-in)>] cancelGroupInvitation() missing 1 required positional argument: 'contactIds'
+[<module 'time' (built-in)>] cancelGroupInvitation() missing 1 required positional argument: 'contactIds'
+[<module 'time' (built-in)>] name 'timeit' is not defined
+[<module 'time' (built-in)>] name 'wait' is not defined
+[<module 'time' (built-in)>] argument of type 'NoneType' is not iterable
+[<module 'time' (built-in)>] argument of type 'NoneType' is not iterable
+[<module 'time' (built-in)>] argument of type 'NoneType' is not iterable
+[<module 'time' (built-in)>] argument of type 'NoneType' is not iterable
+[<module 'time' (built-in)>] argument of type 'NoneType' is not iterable
+[<module 'time' (built-in)>] argument of type 'NoneType' is not iterable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] name 'param2' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] name 'param2' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'toType'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'str' object has no attribute 'invitee'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'str' object has no attribute 'preventedJoinByTicket'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'str' object has no attribute 'pictureStatus'
+[<module 'time' (built-in)>] 'str' object has no attribute 'pictureStatus'
+[<module 'time' (built-in)>] 'str' object has no attribute 'name'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
