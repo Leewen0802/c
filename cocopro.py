@@ -4,7 +4,7 @@ from akad.ttypes import Message
 from datetime import datetime
 import json,sys,atexit,time,codecs,timeit
 botStart = time.time()
-cl = LINE("mail","passwd")
+cl = LINE("a48491756@gmail.com","shengye20030318")
 channelToken = cl.getChannelResult()
 print ("======登入成功=====")
 oepoll = OEPoll(cl)
