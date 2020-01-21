@@ -429,13 +429,11 @@ def lineBot(op):
                         grouplist = cl.getGroupIdsJoined()
                         contactlist = cl.getAllContactIds()
                         blockedlist = cl.getBlockedContactIds()
-                        ret_ = "╔══[ 關於自己 ]"
+                        ret_ = "╔══[  關於  ]"
                         ret_ += "\n╠ 名稱 : {}".format(contact.displayName)
                         ret_ += "\n╠ 群組 : {}".format(str(len(grouplist)))
                         ret_ += "\n╠ 好友 : {}".format(str(len(contactlist)))
                         ret_ += "\n╠ 黑單 : {}".format(str(len(blockedlist)))
-                        ret_ += "\n╠══[ 關於機器 ]"
-                        ret_ += "\n╠ 這是ETLB-EagleTECH_LINEBot
                         ret_ += "\n╚══[ 未經許可禁止重製 ]"
                         cl.sendMessage(to, str(ret_))
                     except Exception as e:
