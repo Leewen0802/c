@@ -435,7 +435,7 @@ def lineBot(op):
                         ret_ += "\n╠ 好友 : {}".format(str(len(contactlist)))
                         ret_ += "\n╠ 黑單 : {}".format(str(len(blockedlist)))
                         ret_ += "\n╠══[ 關於機器 ]"
-                        ret_ += "\n╠ ETLB[VER20200121]
+                        ret_ += "\n╠ 這是ETLB-EagleTECH_LINEBot
                         ret_ += "\n╚══[ 未經許可禁止重製 ]"
                         cl.sendMessage(to, str(ret_))
                     except Exception as e:
