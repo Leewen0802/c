@@ -4,7 +4,7 @@ from akad.ttypes import Message
 from datetime import datetime
 import json,sys,atexit,time,codecs,timeit
 botStart = time.time()
-cl = LINE("mail","passwd")
+cl = LINE("leewen0802888@gmail.com","Li0802888")
 channelToken = cl.getChannelResult()
 print ("======登入成功=====")
 oepoll = OEPoll(cl)
@@ -12,7 +12,7 @@ settingsOpen = codecs.open("temp.json","r","utf-8")
 settings = json.load(settingsOpen)
 clMID = cl.profile.mid
 KAC=[cl]
-admin=['u28d781fa3ba9783fd5144390352b0c24',clMID]
+admin=['ud88795856d91ef52b208b325ff267c56',clMID]
 msg_dict = {}
 bl = [""]
 def cTime_to_datetime(unixtime):
@@ -39,8 +39,8 @@ def logError(text):
         error.write("\n[%s] %s" % (str(time), text))
 def helpmessage():
     helpMessage = """
-        ╔═══════════
-        ╠♥ ✿ CoCo指令表 ✿ ♥
+        ╔══════════════════
+        ╠♥ ✿ ETLB指令表 ✿ ♥
         ╠➥ 「查看指令」查看全部指令
         ╠➥ 「黑單 @」標記加入黑單
         ╠➥ 「解黑 @」標記解除黑單
@@ -52,7 +52,7 @@ def helpmessage():
         ╠➥ 「邀請保護開啟/關閉」群組邀請保護開啟/關閉
         ╠➥ 「網址保護開啟/關閉」群組網址保護開啟/關閉
         ╠➥ 「群組保護開啟/關閉」群組保護開啟/關閉
-        ╚═〘 Credits By: ©CoCo™  〙
+        ╚═〘 Credits By: ©Eagle科技™  〙
         """
     return helpMessage
 def lineBot(op):
@@ -76,7 +76,7 @@ def lineBot(op):
             contact1 = cl.getContact(op.param2)
             contact2 = cl.getContact(op.param3)
             group = cl.getGroup(op.param1)
-            print ("[ 13 ] 通知邀請群組: " + str(group.name) + "\n邀請者: " + contact1.displayName + "\n被邀請者" + contact2.displayName)
+            print ("通知邀請群組: " + str(group.name) + "\n邀請者: " + contact1.displayName + "\n被邀請者" + contact2.displayName)
             if settings["inviteprotect"] == True:
                 if op.param2 in admin:
                     pass
@@ -91,7 +91,7 @@ def lineBot(op):
             contact1 = cl.getContact(op.param2)
             group = cl.getGroup(op.param1)
             contact2 = cl.getContact(op.param3)
-            print ("[19]有人把人踢出群組 群組名稱: " + str(group.name) +"\n踢人者: " + contact1.displayName + "\nMid: " + contact1.mid + "\n被踢者" + contact2.displayName + "\nMid:" + contact2.mid )
+            print ("有人把人踢出群組 群組名稱: " + str(group.name) +"\n踢人者: " + contact1.displayName + "\nMid: " + contact1.mid + "\n被踢者" + contact2.displayName + "\nMid:" + contact2.mid )
             if settings["protect"] == True:
                 if op.param2 in admin:
                     pass
@@ -121,7 +121,7 @@ def lineBot(op):
                 if msg.text in ["查看指令"]:
                     helpMessage = helpmessage()
                     cl.sendMessage(to, str(helpMessage))
-                    cl.sendContact(to, "u28d781fa3ba9783fd5144390352b0c24")
+                    cl.sendContact(to, "ud88795856d91ef52b208b325ff267c56")
                 elif "黑單 @" in msg.text:
                     if msg.toType == 2:
                         _name = msg.text.replace("黑單 @","")
